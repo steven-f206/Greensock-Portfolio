@@ -247,7 +247,8 @@ div[class^='bar-'] {
 .bar-html,
 .bar-css,
 .bar-javascript,
-.bar-mongodb {
+.bar-mongodb,
+.bar-react {
     width: calc(0 - 6px);
 }
 
